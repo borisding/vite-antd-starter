@@ -1,6 +1,6 @@
-## Vite + Ant Design
+## Vite + React + Ant Design
 
-Project starter for Vite + Ant Design with additional tooling installed.
+Project starter for Vite + React + Ant Design with additional tooling installed.
 
 ## Additional Tooling
 
@@ -14,7 +14,7 @@ Project starter for Vite + Ant Design with additional tooling installed.
 
 ```bash
 # cloning git repository into `my-project` folder
-git clone --depth=1 https://github.com/borisding/vite-antd-starter.git my-project
+git clone --depth=1 https://github.com/borisding/vite-react-antd-starter.git my-project
 
 # install project dependencies
 cd my-project
