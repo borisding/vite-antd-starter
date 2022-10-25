@@ -9,6 +9,7 @@ Project starter for Vite + React + Ant Design with additional tooling installed.
 3. Stylelint
 4. Husky Git Hooks
 5. Jest, React Testing Library
+6. React Router v6
 
 ## Quick Start
 
