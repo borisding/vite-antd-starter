@@ -24,6 +24,8 @@ npm install
 npm run dev
 ```
 
+Open: http://localhost:3000
+
 Please find more details on Vite Guide: https://vitejs.dev/guide/
 
 (MIT)
