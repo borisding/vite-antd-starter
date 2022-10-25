@@ -1,5 +1,4 @@
 import { Button, Typography } from 'antd';
-import './App.less';
 
 const { Paragraph, Text } = Typography;
 
