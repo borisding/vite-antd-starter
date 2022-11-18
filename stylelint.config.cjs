@@ -1,6 +1,7 @@
 const prettierConfig = require('./prettier.config.cjs');
 
 module.exports = {
+  plugins: ['stylelint-prettier'],
   extends: [
     'stylelint-config-standard',
     'stylelint-config-css-modules',
